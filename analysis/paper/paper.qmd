@@ -1,5 +1,5 @@
 ---
-title: "Title ara Goes Here"
+title: "Title ara ara Goes Here"
 author:
   - Jane Doe:
       correspondence: "yes"
