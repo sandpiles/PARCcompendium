@@ -1,12 +1,12 @@
 ---
-title: "Title ara ara Goes Here"
+title: "Partnership for the Assessment of Risks from Chemicals - PARC"
 author:
-  - Jane Doe:
+  - Joan Grimalt:
       correspondence: "yes"
-      email: janedoe@fosg.org
+      email: joan.grimalt@csic.es
       orcid: 0000-0003-1689-0557
       institute:
-        - fosg
+        - CSIC
         - fop
   - John Q. Doe:
       institute: fosg
@@ -47,7 +47,7 @@ csl: "../templates/journal-of-archaeological-science.csl" # Insert path for the 
 abstract: |
   Text of abstract
 keywords: |
-  keyword 1; keyword 2; keyword 3
+  Analytical chemistry; Public and environmental health; Toxicology
 highlights: |
   These are the highlights. 
 ---
@@ -64,11 +64,33 @@ Highlights: `r rmarkdown::metadata$highlights`
 
 # Introduction
 
+PARC 101057014 — Partnership for the Assessment of Risks from Chemicals
+
 Here is a citation [@Marwick2017]
 
 # Background
 
+Call: HORIZON-HLTH-2021-ENVHLTH-03
+<!-- Topic: HORIZON-HLTH-2021-ENVHLTH-03-01 -->
+<!-- Type of action: HORIZON Programme Cofund Actions -->
+<!-- Granting authority: European Health and Digital Executive Agency -->
+
+<!-- Project starting date: fixed date: 1 May 2022 -->
+<!-- Project end date: 30 April 2029 -->
+<!-- Project duration: 84 months -->
+
+<!-- Total eligible costs (BEN and AE): 400 000 000.00 -->
+<!-- Funding rate (\%): 50 -->
+<!-- Maximum grant amount (Annex 2):  200 000 000.00 -->
+<!-- Maximum grant amount (award decision): 200 000 000.00 -->
+
+
 # Methods
+
+check la web: https://github.com/NIEHS/ToxicR i l'article: "ToxicR: A computational platform in R for computational toxicology and dose–response analyses": https://www.sciencedirect.com/science/article/abs/pii/S2468111322000470.
+
+
+
 
 # Results
 

@@ -1,9 +1,9 @@
 Package: PARCcompendium
-Title: What the Package Does (One Line, Title Case)
+Title: PARC compendium.
 Version: 0.0.0.9000
 Authors@R:
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Jordi", "Martínez-Blanch", , "jordi.martinez@csic.es", role = c("aut", "cre"))
+Description: The Package Does this and that, following FAIR principles.
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
